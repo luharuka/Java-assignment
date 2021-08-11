@@ -7,3 +7,5 @@ public class Day2 {
         
     }
 }
+
+2.  main method is public static and void because it declare the main method as unprotected static because it interprete any object before it created .
